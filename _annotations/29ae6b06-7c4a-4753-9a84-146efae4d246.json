@@ -1,0 +1,37 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/46626.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Stirn",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EaSchoenholzer",
+                "name": "EaSchoenholzer"
+            },
+            "created": "2023-03-10T08:36:34.916Z",
+            "modified": "2023-03-10T08:36:36.377Z"
+        }
+    ],
+    "target": {
+        "source": "https://media.nga.gov/public/manifests/canvas/46626.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1591.224853515625,1983.488525390625 9141.2783203125,1727.5545654296875 9141.2783203125,1727.5545654296875 1591.224853515625,1983.488525390625\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "29ae6b06-7c4a-4753-9a84-146efae4d246.json",
+    "motivation": "commenting"
+}
