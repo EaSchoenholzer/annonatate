@@ -1,0 +1,34 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/46626.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Gesicht",
+            "purpose": "commenting",
+            "creator": {
+                "id": "EaSchoenholzer",
+                "name": "EaSchoenholzer"
+            },
+            "created": "2023-03-10T08:38:06.457Z",
+            "modified": "2023-03-10T08:38:07.498Z"
+        }
+    ],
+    "target": {
+        "source": "https://media.nga.gov/public/manifests/canvas/46626.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"6293.85693359375\" cy=\"3337.805908203125\" r=\"1384.544448751334\"></circle></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7c2ac8ba-dffd-4256-addd-f6f6d67e8e8f.json",
+    "motivation": "commenting"
+}
